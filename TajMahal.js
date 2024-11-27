@@ -44,3 +44,4 @@ domestic flights.</li>
 </Router>
  );
 };
+export default TajMahal;
