@@ -1,0 +1,24 @@
+header {
+ background-image: url('D:/1214 react/project/src/images/hfinal.png');
+ background-color:darkcyan;
+ color:black;
+ padding: 2rem;
+ text-align:center ;
+ background-size: cover;
+ background-position: center;
+height:1.5cm;
+}
+.pro{
+ font-size: xx-large;
+ color:ghostwhite;
+ font-style: italic;
+}
+nav ul {
+ list-style: none;
+ display: flex;
+ justify-content: center;
+}
+nav li {
+ margin: 0 1rem;
+ cursor: pointer;
+}
