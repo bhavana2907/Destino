@@ -27,3 +27,15 @@ function App() {
  <div>
  <Switch>
  <Route path="/" exact component={HomePage} />
+  <Route path="/Destinations" component={DestinationsPage} />
+ <Route path="/AboutUs" component={AboutUsPage} />
+ <Route path="/ContactUs" component={ContactUsPage} />
+ <Route path="/Login" component={LoginPage} />
+ </Switch>
+ <Footer />
+ </div>
+ </Router>
+ );
+}
+export default App;
+
